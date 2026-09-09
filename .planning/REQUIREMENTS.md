@@ -35,4 +35,6 @@
 - Heavy GUI or Web Frontend: Goal is a terminal-first application.
 
 ## Traceability
-(Updated by roadmap)
+- **Phase 1:** CORE-01, CORE-02, CORE-03, META-01, META-02, META-03
+- **Phase 2:** PLAY-01, PLAY-02, PLAY-03, PLAY-04
+- **Phase 3:** DOWN-01, DOWN-02, DOWN-03, LIVE-01, LIVE-02
